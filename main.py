@@ -39,8 +39,8 @@ def weighted_f1_score(y_true, y_pred):
 
 
 
-X_train, y_train = read_data("/Users/krishyadav/Desktop/lab endsem/MNIST_train.csv")
-X_val, y_val = read_data("/Users/krishyadav/Desktop/lab endsem/MNIST_validation.csv")
+X_train, y_train = read_data("MNIST_train.csv")
+X_val, y_val = read_data("MNIST_validation.csv")
 
 print("\n__________TRAINING FINAL MODEL: XGBoost Multiclass__________\n")
 
