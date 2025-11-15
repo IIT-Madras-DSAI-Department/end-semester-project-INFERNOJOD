@@ -32,21 +32,23 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## ▶️ Running the Code
 
-The code is ready to run in the 2 py files, I had used local path for writing codes but have changed it to just MNIST_train.csv and MNIST_validation.csv before submitting.
+* just press run and both should run
 
 ### A. Command-line (recommended for grading)
 
-* Mention the instructions to run you .py files.
+* The code is ready to run in the 2 py files, I had used local path for writing codes but have changed it to just MNIST_train.csv and MNIST_validation.csv before submitting.
+
   
 ---
 
 ## You can further add your own sections/titles along with corresponding contents here:
 
----
-
+Only in my lab endsem report in section 3 hyperparameter tuning 
+there i have wrote "CLICK ON THIS "
+tapping on that directs u to my hyper param tuning report which i have on my drive and only the link is pasted in the lab_endsem_report.pdf.
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Krish_Yadav,DA24B043>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
